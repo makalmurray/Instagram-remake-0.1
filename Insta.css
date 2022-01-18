@@ -1,0 +1,24 @@
+html {
+  background-color: #f2f2f2;
+font-family: freight-sans-pro, sans-serif;
+}
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: #4191da;
+  color: #ffffff;
+	width: 100%;
+}
+input {
+width: 100%;
+}
+section{
+	width: 100%;
+}
+form {
+}
+  .indent-1 {float: left;}
+   .indent-1 section {width: 50%; float: left;}
+img {
+  display: block;
+	margin-left: auto;
+  margin-right: auto;
+}
